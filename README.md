@@ -5,7 +5,7 @@ Oh helloww!
 
 Are you human? Why do you always want to automation everything? even Canva Registration you do with automation test?
 
-Ahhh, i see, u dont have anytime to do that, so here we go! 
+Ahhh, i see, u dont have any time to do that, so here we go! 
 
 Automation Canva Registration Account using Selenium!
 
