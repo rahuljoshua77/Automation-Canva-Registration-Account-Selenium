@@ -60,7 +60,7 @@ def regis():
     print("[*] Registration Success, Saved to result.txt")
     f.write(email + "|"+password)
     browser.get("https://www.canva.com/logout") 
-    browser.save_screenshot("screenshot.png")
+  
     time.sleep(5)
 
 def make_count():
